@@ -1,0 +1,29 @@
+/* Write your code here. */
+/* Write your code here. */
+.main-container {
+  background-color: #f1f5f8;
+  height: 100%;
+  padding: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-self: center;
+}
+
+.app-container {
+  background-color: #ffffff;
+  border-radius: 5px;
+  height: 80%;
+  width: 100%;
+  padding: 20px;
+}
+.list-items {
+  list-style: none;
+}
+
+.faq-heading {
+  color: #cb8805;
+  font-family: roboto;
+  margin: 10px;
+  text-align: center;
+}
